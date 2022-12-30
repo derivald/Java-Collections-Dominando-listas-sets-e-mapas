@@ -1,0 +1,20 @@
+package br.com.alura;
+
+public class Aluno {
+	
+	private String nome;
+	private String numeroMatricula;
+	
+	public Aluno(String nome, String numeroMatricula) {
+		super();
+		this.nome = nome;
+		this.numeroMatricula = numeroMatricula;
+	}
+	
+	
+	
+	
+	
+	
+
+}
