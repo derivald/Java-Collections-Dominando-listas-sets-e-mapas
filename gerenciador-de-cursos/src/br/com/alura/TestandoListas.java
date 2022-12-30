@@ -15,6 +15,8 @@ public class TestandoListas {
 		aulas.add(aula1);
 		aulas.add(aula2);
 		aulas.add(aula3);
+		
+	
 
 		System.out.println(aulas);
 
