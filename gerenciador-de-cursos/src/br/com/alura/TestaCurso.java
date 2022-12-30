@@ -13,8 +13,12 @@ public class TestaCurso {
 		javaColecoes.adiciona(new Aula("Criando uma Aula", 20));
 		javaColecoes.adiciona(new Aula("Modelando com Coleções", 22));
 		
+	
+		
 		
 		System.out.println(javaColecoes.getAulas());
+		
+		
 		
 		
 	}
